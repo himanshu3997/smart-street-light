@@ -13,4 +13,4 @@ can be regulated.
 
 * [Thingspeak server link](https://thingspeak.com/channels/1256374)
 
-*![Project image]()
+*![Project image](smart-street-light/circuit.JPG)
