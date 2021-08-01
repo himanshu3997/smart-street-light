@@ -7,8 +7,8 @@ It uses:
 * micro USB cable
 * LED's
 * IR sensors 
-* LDR 
-sensors. Also the data of sensors will be displayed on a Thingspeak server by using API so that the amount of energy consumed
+* LDR sensors
+Also the data of sensors will be displayed on a Thingspeak server by using API so that the amount of energy consumed
 can be regulated. 
 
 * [Thingspeak server link](https://thingspeak.com/channels/1256374)
