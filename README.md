@@ -13,4 +13,4 @@ can be regulated.
 
 * [Thingspeak server link](https://thingspeak.com/channels/1256374)
 
-*![Project image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fiotdesignpro.com%2Fprojects%2Fiot-based-smart-street-light-using-esp8266-and-thingspeak&psig=AOvVaw1LOTrGFS9C69Hbgv5LhvVS&ust=1627889668006000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjKz96nj_ICFQAAAAAdAAAAABAD)
+*![Project image]()
