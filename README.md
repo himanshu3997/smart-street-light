@@ -1,5 +1,5 @@
 # smart-street-light
-
+The main aim of the project is to reduce energy comsumption and increase effciency of street light and also operate them remotely
 This is an IOT project on smart street light system, where the street light will only glow when a car passes
 through it and will remain off during day. 
 It uses:
@@ -11,3 +11,4 @@ It uses:
 sensors. Also the data of sensors will be displayed on a Thingspeak server by using API so that the amount of energy consumed
 can be regulated. 
 [Thingspeak server link](https://thingspeak.com/channels/1256374)
+![Project image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fiotdesignpro.com%2Fprojects%2Fiot-based-smart-street-light-using-esp8266-and-thingspeak&psig=AOvVaw1LOTrGFS9C69Hbgv5LhvVS&ust=1627889668006000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjKz96nj_ICFQAAAAAdAAAAABAD)
